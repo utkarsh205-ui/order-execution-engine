@@ -4,9 +4,8 @@ This project is a high-performance backend service that simulates a cryptocurren
 
 [cite_start]The engine features a DEX router that compares prices between (mocked) Raydium and Meteora pools [cite: 13, 48] and executes the trade on the most profitable venue.
 
-[cite_start]**Public Deployed URL:** `[TODO: Add your public URL here after you deploy]` [cite: 79]
+[cite_start]**Public Deployed URL:** `https://my-order-app-dolh.onrender.com/` [cite: 79]
 
-[cite_start]**YouTube Video Link:** `[TODO: Add your 1-2 minute video link here]` [cite: 80]
 
 ---
 
