@@ -1,10 +1,9 @@
 # Order Execution Engine (Backend Task)
 
-This project is a high-performance backend service that simulates a cryptocurrency order execution engine. [cite_start]It's built with Node.js, Fastify, and BullMQ, and it's designed to process concurrent trade orders with real-time WebSocket status updates[cite: 10, 55, 69].
+This project is a high-performance backend service that simulates a cryptocurrency order execution engine. It's built with Node.js, Fastify, and BullMQ, and it's designed to process concurrent trade orders with real-time WebSocket status updates.
 
-[cite_start]The engine features a DEX router that compares prices between (mocked) Raydium and Meteora pools [cite: 13, 48] and executes the trade on the most profitable venue.
+The engine features a DEX router that compares prices between (mocked) Raydium and Meteora pools [cite: 13, 48] and executes the trade on the most profitable venue.
 
-[cite_start]**Public Deployed URL:** `https://my-order-app-dolh.onrender.com/` [cite: 79]
 
 
 ---
